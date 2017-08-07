@@ -1,0 +1,381 @@
+[33mcommit f5af01ec3d3d2470cda3d3788b257e027c2707b8[m
+Author: colorlessenergy <theluckorange@yahoo.com>
+Date:   Mon Aug 7 10:03:40 2017 -0700
+
+    first commit
+
+[33mcommit 6ee3b2f64e67958ec5934d54bbbd8fe9b2ce422d[m
+Merge: eedf22a d078288
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Wed Jul 19 11:10:23 2017 -0700
+
+    Merge pull request #29 from netlify/pin_hugo_version
+    
+    Pin Hugo version on Netlify to the most recent one.
+
+[33mcommit d0782884a9b9d76b8b5c3f0c1aeedc4159f753fa[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Wed Jul 19 11:09:30 2017 -0700
+
+    Update to 0.25.1 before merging.
+    
+    This will set it to the most recent release to date.
+
+[33mcommit eedf22a2dab00e9ecfe1b8d84ffe1b58253ba326[m
+Author: Gerald Onyango <gerald@Geralds-MacBook-Pro.local>
+Date:   Wed Jul 12 15:31:08 2017 -0700
+
+    reverting
+
+[33mcommit 8b329a7a00953f19ed5ef883c7fb02a984dbe0d2[m
+Author: Gerald Onyango <gerald@Geralds-MacBook-Pro.local>
+Date:   Wed Jul 12 15:18:44 2017 -0700
+
+    first
+
+[33mcommit f7740645f9774bb6a4b27a8cee5185e56df72518[m
+Merge: 81c3f9d 9d33b3d
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Mon Jun 5 20:13:16 2017 -0700
+
+    Merge pull request #33 from netlify/revert-32-css-on-exit
+    
+    Revert "Prevent exiting on css error"
+
+[33mcommit 9d33b3ddba6da9d76557462e328fe47c0223a5eb[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Mon Jun 5 16:12:29 2017 -0700
+
+    Revert "Prevent exiting on css error"
+
+[33mcommit 81c3f9d3807360d8a155eb8600eeac3584450e88[m
+Merge: fb00264 86e73f0
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Mon Jun 5 13:54:26 2017 -0700
+
+    Merge pull request #32 from bryankang/css-on-exit
+    
+    Prevent exiting on css error
+
+[33mcommit fb00264c4b3f1359a1c0962fd7fe6e7862eec771[m
+Merge: 10dca87 bc82eb8
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Mon Jun 5 13:53:45 2017 -0700
+
+    Merge pull request #31 from colorful-tones/remove-unused-postcss-loader-dependency
+    
+    remove unused postcss-loader as dependency
+
+[33mcommit 10dca87e4dd99afeb705148f2b1bba316585e9d8[m
+Merge: 37c5e0f 864d1e4
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Mon Jun 5 13:53:12 2017 -0700
+
+    Merge pull request #30 from colorful-tones/remove-autoprefixer-duplicate
+    
+    remove autoprefixer duplicate dependency
+
+[33mcommit 86e73f087710e3c4affb06a94da1c122a28fe804[m
+Author: bryankang <bryankang@users.noreply.github.com>
+Date:   Sun Jun 4 19:51:56 2017 -0500
+
+    Prevent exiting on css error
+
+[33mcommit bc82eb8328b3609f11406625925472f6fc85f4f1[m
+Author: Damon Cook <damonacook@gmail.com>
+Date:   Fri Jun 2 22:31:19 2017 -0400
+
+    remove unused postcss-loader as dependency
+    
+    Nowhere is it being used.
+
+[33mcommit 864d1e47bc7357dc84e192d25d28a9f885c4eccc[m
+Author: Damon Cook <damonacook@gmail.com>
+Date:   Fri Jun 2 21:33:57 2017 -0400
+
+    remove autoprefixer duplicate dependency
+    
+    PostCSS-CSSNext already has Autoprefixer included: http://cssnext.io/features/#automatic-vendor-prefixes
+
+[33mcommit 571859a51bf44738e2519bd069e0964ec9101059[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Tue May 30 11:44:55 2017 -0700
+
+    Pin Hugo version on Netlify to the most recent one.
+    
+    So people start with a more modern version of Hugo when
+    they deploy their site on Netlify.
+    
+    Signed-off-by: David Calavera <david.calavera@gmail.com>
+
+[33mcommit 37c5e0fde6f98b25b1f432baac132e1fdbb35e5e[m
+Merge: c271e7b 419a7da
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Tue May 30 11:43:28 2017 -0700
+
+    Merge pull request #28 from kahwee/master
+    
+    Upgraded to Webpack 2
+
+[33mcommit 419a7da48c4d7e6ac6ec1626369bc91ec2e5aa8a[m
+Author: KahWee Teng <t@kw.sg>
+Date:   Tue May 23 00:16:47 2017 -0700
+
+    Upgraded to Webpack 2
+
+[33mcommit c271e7bc4ca0c815b4dd38c6d7e6d411ebec0ba9[m
+Merge: 8d7753b b7e33d7
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Fri Apr 14 14:07:26 2017 -0700
+
+    Merge pull request #23 from netlify/flip_css_tasks_order
+    
+    Flip CSS tasks order to parse custom imports
+
+[33mcommit b7e33d73c1133b8534ff91d35bdfa16c31d71167[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Fri Apr 14 08:40:53 2017 -0700
+
+    Flip CSS tasks order to parse custom imports
+    
+    This will allow people to set custom imports in their css files.
+
+[33mcommit 8d7753b63cf80178c8338dca1ace16615791ef25[m
+Merge: ba76149 da7b7de
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Thu Apr 6 16:45:46 2017 -0700
+
+    Merge pull request #21 from kalinchernev/master
+    
+    Remove unnecessary script
+
+[33mcommit da7b7de017838ef100eed5ebbaabc06fec25711b[m
+Author: Kalin Chernev <kalinchernev@users.noreply.github.com>
+Date:   Thu Apr 6 18:56:39 2017 +0200
+
+    Remove unnecessary script
+
+[33mcommit ba76149cc0b8b03a205d2d355675eb29f67674f5[m
+Merge: 140dba1 24cdbfe
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Sun Mar 26 13:35:29 2017 -0700
+
+    Merge pull request #18 from kalinchernev/patch-1
+    
+    Update README.md
+
+[33mcommit 24cdbfe795122fc1a8cd4e4b4ebb1cc7443580f9[m
+Author: Kalin Chernev <kalinchernev@users.noreply.github.com>
+Date:   Sat Mar 25 09:45:19 2017 +0100
+
+    Update README.md
+    
+    The output folder is actually `dist`.
+
+[33mcommit 140dba19ee183d8a25a577e5c57336241c41b202[m
+Merge: 863aab1 72c9e4d
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Sat Feb 25 05:32:54 2017 +0100
+
+    Merge pull request #14 from tech4him1/patch-1
+    
+    Fix wrong directory for app.js in README
+
+[33mcommit 72c9e4de72428a1b348bcb988090f7bc3ea69efe[m
+Author: tech4him <tech4him1@users.noreply.github.com>
+Date:   Fri Feb 24 20:55:52 2017 -0700
+
+    Fix wrong directory for app.js in README
+    
+    The `app.js` file is being built to the site root, not a `js` subdirectory.
+
+[33mcommit 863aab1bc5624b6d26a7dd4bd1bf37d57696f80b[m
+Author: Brian Douglas <bdougie@users.noreply.github.com>
+Date:   Mon Jan 30 11:04:02 2017 -0800
+
+    fix webpack mispelling
+
+[33mcommit 6384ee627a1ae22186ba54c5f81222634967c8b5[m
+Author: chris mccraw <gently@gmail.com>
+Date:   Thu Jan 19 14:13:59 2017 -0800
+
+    Update README.md
+
+[33mcommit 855026681012033c7e4eb93d31e2c62036c73bf0[m
+Merge: b5f6906 ab742c4
+Author: Mathias Biilmann <info@mathias-biilmann.net>
+Date:   Thu Dec 22 14:51:13 2016 -0800
+
+    Merge pull request #11 from netlify/project_management
+    
+    Add project management files.
+
+[33mcommit ab742c49bc46184b28e8e4f8a8c6aa1491d2b8b0[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Thu Dec 22 14:35:46 2016 -0800
+
+    Add project management files.
+    
+    Signed-off-by: David Calavera <david.calavera@gmail.com>
+
+[33mcommit b5f6906b5bb16cf1859d831132d92bb62209cd5e[m
+Author: Brian Douglas <bdougie@users.noreply.github.com>
+Date:   Wed Dec 14 13:42:05 2016 -0800
+
+    add deploy to netlify button.
+
+[33mcommit 5ae9e9496f164e7cfdb62b69b71a671e638c7f7a[m
+Merge: 742a266 4733455
+Author: Mathias Biilmann <info@mathias-biilmann.net>
+Date:   Tue Oct 18 22:41:46 2016 -0700
+
+    Merge pull request #6 from netlify/make-sure-to-exit-with-non-zero-exit-code-on-error
+    
+    Make sure to exit with non-zero exit code on hugo error
+
+[33mcommit 473345578f2977d6c4833bb930a4c8fb7fdae436[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Oct 18 22:40:29 2016 -0700
+
+    Make sure to exit with non-zero exit code on hugo error
+    
+    If hugo fails to build the site, we want to make sure gulp exits
+    with an appropriate error code so a netlify deploy fails
+
+[33mcommit 742a26610cefd71c35683e66d10e327260167ec5[m
+Merge: 7535087 f647b30
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Wed Sep 21 10:41:01 2016 -0700
+
+    Merge pull request #5 from netlify/add_license_file
+    
+    Add missing license file.
+
+[33mcommit f647b30caa37cea858d51ecfce7448fce110c3e1[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Wed Sep 21 10:37:14 2016 -0700
+
+    Add missing license file.
+    
+    Signed-off-by: David Calavera <david.calavera@gmail.com>
+
+[33mcommit 753508799614c734d3c6357c57d2c42617b75d93[m
+Merge: d750ef3 cc2ac48
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Fri Sep 16 09:47:38 2016 -0700
+
+    Merge pull request #4 from joe6pack/hugo-dependency
+    
+    update readme to include note about Hugo dependency
+
+[33mcommit cc2ac481aa3cb0c96520f3ca8b62dcc52d708ae6[m
+Author: Joe Robinson <josephlrobinson@gmail.com>
+Date:   Fri Sep 16 10:18:01 2016 +0200
+
+    update readme to include note about Hugo dependency
+
+[33mcommit d750ef3af85183b80731ecaa14d5a3e0bd31fdc7[m
+Merge: 7c04c37 2481980
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Thu Sep 1 10:04:47 2016 -0700
+
+    Merge pull request #3 from netlify/add_deploy_context
+    
+    Add deploy preview context.
+
+[33mcommit 24819804aa2d37dc8b0d3e8220b285f2766a9aca[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Thu Sep 1 07:59:24 2016 -0700
+
+    Add deploy preview context.
+    
+    So we can see content from drafts and the future in deploy previews.
+    
+    Signed-off-by: David Calavera <david.calavera@gmail.com>
+
+[33mcommit 7c04c37162c859ce373f9a458536e27358ac16fd[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Aug 9 21:42:34 2016 -0700
+
+    Add babel-register
+
+[33mcommit c2a9df7c926c1bb0220c434ca50f1ee2b6cc0b69[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Aug 9 18:01:27 2016 -0700
+
+    Add missing dependencies
+
+[33mcommit b1fd5b1c1a2bec7e8aada20a247a7edfd8a79889[m
+Merge: 1845ff9 a539fa5
+Author: Mathias Biilmann <info@mathias-biilmann.net>
+Date:   Tue Aug 9 17:16:41 2016 -0700
+
+    Merge pull request #2 from netlify/netlify_toml
+    
+    Add netlify.toml file.
+
+[33mcommit a539fa51edf0bbff97fe180807be8033e00a820c[m
+Author: David Calavera <david.calavera@gmail.com>
+Date:   Tue Aug 9 17:06:10 2016 -0700
+
+    Add netlify.toml file.
+    
+    It makes deploying extremely easy.
+    
+    Signed-off-by: David Calavera <david.calavera@gmail.com>
+
+[33mcommit 1845ff926a286d6f56e0c0d0c82e9c5b4f742270[m
+Author: Mathias Biilmann <info@mathias-biilmann.net>
+Date:   Tue Aug 9 16:42:05 2016 -0700
+
+    Update Victor Hugo README
+    
+    No, it's not a novel, but it's still epic.
+
+[33mcommit de63385b2f609694aa17bdfed0887907bffeed02[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Aug 9 15:38:45 2016 -0700
+
+    Update README with better instructions and lisence
+
+[33mcommit d8c491fd43e8155072637b2da6026aa978b9ccaf[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Aug 9 15:37:13 2016 -0700
+
+    Update README with better instructions and lisence
+
+[33mcommit 35d9135d6a9f799b92f898cbe3babebcbf9937d7[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Aug 9 15:03:17 2016 -0700
+
+    Update index page
+
+[33mcommit 941456dde1eca763e785a17ebaffcfdfb564e09b[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Fri Jul 22 17:05:18 2016 -0700
+
+    Notify through browserSync when hugo build fails
+
+[33mcommit c8fc39df18bb1c12c86b631044c8b30983a6a895[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Thu Jul 21 10:35:32 2016 -0700
+
+    Updated readme
+
+[33mcommit f85838665b07e62c79a56a6956f9a5c7d9a70ced[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Thu Jul 21 10:33:50 2016 -0700
+
+    User browserSync instead of webpack dev server
+
+[33mcommit a6a5d841fd70e9aceb6fd757450c0691f3346661[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Tue Jul 5 11:38:18 2016 -0700
+
+    Update dependencies and add a short README
+
+[33mcommit 8f6c70c51bf7e9e2045ae13c4052156877e77648[m
+Author: Mathias Biilmann Christensen <info@mathias-biilmann.net>
+Date:   Sun Jul 3 15:07:47 2016 -0700
+
+    Basic setup - gulp + webpack + hugo
