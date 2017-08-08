@@ -33,7 +33,7 @@ paginate = 10
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = "colorlessenergy"
-		gitlab = ""
+		gitlab = "spf13"
 		dribbble = ""
 		facebook = ""
 		googleplus = ""
@@ -61,37 +61,37 @@ paginate = 10
 			image = "imaqtpie.png"
 			thumb = "imaqtpie.png"
 			title = "imaqtpie-website"
-			description = "responsive design"
-
-		[[params.portfolio.gallery]]
-			image = "allaboutfruit.png"
-			thumb = "allaboutfruit.png"
-			title = "all about fruits"
-			description = "responsive design"
-
-		[[params.portfolio.gallery]]
-			image = "giant.png"
-			thumb = "giant.png"
-			title = "Giant - clash of clans"
-			description = "responsive design"
+			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
 			image = "tyler1.png"
-			thumb = "tyler1.png"
-			title = "tyler 1."
-			description = "responsive design"
+			thumb = "tyler.png"
+			title = "tyler1"
+			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
-			image = "pikmin.png"
-			thumb = "pikmin.png"
-			title = "Pikmin"
-			description = "responsive design"
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "growlypw.png"
-			thumb = "growlypw.png"
-			title = "GrowlyPW"
-			description = "responsive design"
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/05.jpg"
+			thumb = "thumbs/05.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
 		hide  = false
