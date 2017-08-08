@@ -86,13 +86,7 @@ paginate = 10
 			thumb = "growlypw.png"
 			title = "growlypws"
 			description = "Responsive Design"
-
-		[[params.portfolio.gallery]]
-			image = "giant.png"
-			thumb = "giant.png"
-			title = "giant clash of clans"
-			description = "Responsive Design"
-
+			
 	[params.recentposts]
 		hide  = false
 		title = "Recent blog posts"
