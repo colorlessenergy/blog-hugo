@@ -70,16 +70,16 @@ paginate = 10
 			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "pikmin.png"
+			thumb = "pikmin.png"
+			title = "Pikmin."
+			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "allaboutfruit.png"
+			thumb = "allaboutfruit.png"
+			title = "all about fruits"
+			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
