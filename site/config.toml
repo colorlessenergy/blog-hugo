@@ -65,7 +65,7 @@ paginate = 10
 
 		[[params.portfolio.gallery]]
 			image = "tyler1.png"
-			thumb = "tyler.png"
+			thumb = "tyler1.png"
 			title = "tyler1"
 			description = "Responsive Design"
 
