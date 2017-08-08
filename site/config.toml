@@ -67,7 +67,7 @@ paginate = 10
 			image = "allaboutfruit.png"
 			thumb = "allaboutfruit.png"
 			title = "all about fruits"
-			description = "one of my first websites"
+			description = "responsive design"
 
 		[[params.portfolio.gallery]]
 			image = "giant.png"
