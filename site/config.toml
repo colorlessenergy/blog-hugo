@@ -33,7 +33,7 @@ paginate = 10
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = "colorlessenergy"
-		gitlab = "spf13"
+		gitlab = ""
 		dribbble = ""
 		facebook = ""
 		googleplus = ""
@@ -58,40 +58,40 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "imaqtpie2.png"
-			thumb = "imaqtpie2.png"
+			image = "imaqtpie.png"
+			thumb = "imaqtpie.png"
 			title = "imaqtpie-website"
 			description = "responsive design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "allaboutfruit.png"
+			thumb = "allaboutfruit.png"
+			title = "all about fruits"
+			description = "one of my first websites"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "giant.png"
+			thumb = "giant.png"
+			title = "Giant - clash of clans"
+			description = "responsive design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "tyler1.png"
+			thumb = "tyler1.png"
+			title = "tyler 1."
+			description = "responsive design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "pikmin.png"
+			thumb = "pikmin.png"
+			title = "Pikmin"
+			description = "responsive design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "growlypw.png"
+			thumb = "growlypw.png"
+			title = "GrowlyPW"
+			description = "responsive design"
 
 	[params.recentposts]
 		hide  = false
