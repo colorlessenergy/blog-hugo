@@ -58,10 +58,10 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "imaqtpie.jpg"
+			thumb = "imaqtpie.png"
+			title = "imaqtpie-website"
+			description = "responsive design"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
