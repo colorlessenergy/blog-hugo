@@ -88,10 +88,10 @@ paginate = 10
 			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "giant.png"
+			thumb = "giant.png"
+			title = "giant clash of clans"
+			description = "Responsive Design"
 
 	[params.recentposts]
 		hide  = false
@@ -142,7 +142,7 @@ paginate = 10
 [[menu.main]]
   name = "About"
   url  = "about"
-  weight = 5
+  weight = 6
 
   [[menu.main]]
       name = "Blog"
