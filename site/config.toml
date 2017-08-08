@@ -61,31 +61,31 @@ paginate = 10
 			image = "imaqtpie.png"
 			thumb = "imaqtpie.png"
 			title = "imaqtpie-website"
-			description = "Responsive Design"
+			description = "https://colorlessenergy.github.io/imaqtpie/"
 
 		[[params.portfolio.gallery]]
 			image = "tyler1.png"
 			thumb = "tyler1.png"
 			title = "tyler1"
-			description = "Responsive Design"
+			description = "https://colorlessenergy.github.io/tyler1/"
 
 		[[params.portfolio.gallery]]
 			image = "pikmin.png"
 			thumb = "pikmin.png"
 			title = "Pikmin."
-			description = "Responsive Design"
+			description = "https://colorlessenergy.github.io/pikmin/"
 
 		[[params.portfolio.gallery]]
 			image = "allaboutfruit.png"
 			thumb = "allaboutfruit.png"
 			title = "all about fruits"
-			description = "Responsive Design"
+			description = "https://colorlessenergy.github.io/all-about-fruit/"
 
 		[[params.portfolio.gallery]]
 			image = "growlypw.png"
 			thumb = "growlypw.png"
 			title = "growlypws"
-			description = "Responsive Design"
+			description = "https://colorlessenergy.github.io/growlypw/"
 
 	[params.recentposts]
 		hide  = false
