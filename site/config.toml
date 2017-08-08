@@ -48,7 +48,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Brian Munoz - the web developer"
-		content = "HTML5, Javascript and CSS3."
+		content = "HTML5, Javascript, and CSS3."
 
 
 	[params.portfolio]
