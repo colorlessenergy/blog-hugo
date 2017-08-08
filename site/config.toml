@@ -82,10 +82,10 @@ paginate = 10
 			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			image = "growlypw.png"
+			thumb = "growlypw.png"
+			title = "growlypws"
+			description = "Responsive Design"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
